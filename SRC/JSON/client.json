@@ -1,0 +1,64 @@
+{
+	"TP2Client": [
+		{
+			"idClient": 31073,
+			"adresse": "1157 Emma View",
+			"prenom": "Bettie",
+			"nom": "Runolfsdottir",
+			"email": "Phyllis21@gmail.com",
+			"nomEntreprise": "Ondricka, Quitzon and Moen",
+			"phone": "1-484-550-3194 x063",
+			"idDetails": 44982,
+			"rue": "Kayley Fork",
+			"idContact": 53628
+		},
+		{
+			"idClient": 82253,
+			"adresse": "304 Seth Mountains",
+			"prenom": "Jace",
+			"nom": "Murray",
+			"email": "Van.McCullough@gmail.com",
+			"nomEntreprise": "Emmerich LLC",
+			"phone": "446-311-1671 x584",
+			"idDetails": 1281,
+			"rue": "Dach View",
+			"idContact": 62348
+		},
+		{
+			"idClient": 77110,
+			"adresse": "78750 Schoen Walk",
+			"prenom": "Keshaun",
+			"nom": "Kuhlman",
+			"email": "Rylee_Streich35@hotmail.com",
+			"nomEntreprise": "Botsford - Sauer",
+			"phone": "1-493-627-2482 x210",
+			"idDetails": 35025,
+			"rue": "DuBuque Dam",
+			"idContact": 37240
+		},
+		{
+			"idClient": 61531,
+			"adresse": "9434 Lindgren Station",
+			"prenom": "Rhett",
+			"nom": "Schowalter",
+			"email": "Annamarie.Okuneva86@hotmail.com",
+			"nomEntreprise": "Moore, Marquardt and Marks",
+			"phone": "1-859-306-7338",
+			"idDetails": 61190,
+			"rue": "Labadie Mountains",
+			"idContact": 45107
+		},
+		{
+			"idClient": 19925,
+			"adresse": "96080 Retha Mount",
+			"prenom": "Ayana",
+			"nom": "King",
+			"email": "Joan_Cormier@yahoo.com",
+			"nomEntreprise": "Durgan LLC",
+			"phone": "871.211.6480 x634",
+			"idDetails": 2922,
+			"rue": "Warren Cliffs",
+			"idContact": 1616
+		}
+	]
+}

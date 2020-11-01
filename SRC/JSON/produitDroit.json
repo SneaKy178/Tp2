@@ -1,0 +1,24 @@
+{
+	"TP2ProduitDroit": [
+		{
+			"produitId": 87973,
+			"droitId": 90970
+		},
+		{
+			"produitId": 95296,
+			"droitId": 98232
+		},
+		{
+			"produitId": 89647,
+			"droitId": 50488
+		},
+		{
+			"produitId": 22690,
+			"droitId": 13276
+		},
+		{
+			"produitId": 75636,
+			"droitId": 55279
+		}
+	]
+}
